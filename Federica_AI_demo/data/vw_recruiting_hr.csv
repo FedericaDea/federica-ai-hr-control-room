@@ -1,0 +1,14 @@
+"id","nome","ruolo","fonte","data_candidatura","stato","data_colloquio","valutazione","esito"
+1,"Marco Rossi","HR Assistant","LinkedIn","2026-01-10","Colloquio","2026-01-14",8,"Secondo colloquio"
+2,"Anna Bianchi","Recruiter","Indeed","2026-01-12","Assunto","2026-01-16",9,"Assunto"
+4,"Sara Neri","Payroll Specialist","LinkedIn","2026-01-18","Rifiutato","2026-01-21",5,"Rifiutato"
+5,"Giulia Conti","HR Assistant","Referral","2026-01-20","Colloquio","2026-01-24",7,"In valutazione"
+6,"Elena Moretti","Recruiter","LinkedIn","2026-02-02","Colloquio","2026-02-10",8,"In valutazione"
+8,"Martina Greco","Payroll Specialist","Referral","2026-02-04","Assunto","2026-02-12",9,"Assunto"
+9,"Fabio Rinaldi","HR Generalist","Sito aziendale","2026-02-05","Rifiutato","2026-02-13",4,"Rifiutato"
+10,"Chiara Fontana","Recruiter","LinkedIn","2026-02-06","Colloquio","2026-02-14",8,"Secondo colloquio"
+11,"Paolo Marchetti","HR Assistant","Referral","2026-02-07","Assunto","2026-02-15",9,"Assunto"
+13,"Stefano Galli","HR Generalist","LinkedIn","2026-02-09","Colloquio","2026-02-16",7,"In valutazione"
+12,"Ilaria De Luca","Payroll Specialist","Indeed","2026-02-08","Screening",NULL,NULL,NULL
+3,"Luca Verdi","HR Generalist","Sito aziendale","2026-01-15","Screening",NULL,NULL,NULL
+7,"Davide Serra","HR Assistant","Indeed","2026-02-03","Screening",NULL,NULL,NULL
